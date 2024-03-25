@@ -54,3 +54,9 @@ int main()
 			cout << "Hasil penjumlahan = " << pengurangan(a, b) << endl;
 			system("pause");
 			break;
+		case 3:
+			input();
+			cout << "Hasil penjumlahan = " << perkalian(a, b) << endl;
+			system("pause");
+			break;
+		case 4:
